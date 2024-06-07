@@ -1,18 +1,15 @@
 // script.js
 
 const candidatos = [
-    { numero: 16, nome: "MarinaMarques", cargo: "Presidente", imagem: "./assets/MarinaMarques.png", votos: 0 },
-    { numero: 10, nome: "Guilherme", cargo: "Presidente", imagem: "./assets/Guilherme.png", votos: 0 },
-    { numero: 20, nome: "Ana Júlia", cargo: "Presidente", imagem: "./assets/AnaJúlia.png", votos: 0 },
-    { numero: 2087, nome: "Ester", cargo: "Deputados Federal", imagem: "./assets/Ester.png", votos: 0 },
-    { numero: 1039, nome: "Athos Tavares", cargo: "Deputados Federal", imagem: "./assets/AthosTavares.png", votos: 0 },
-    { numero: 1658, nome: "Lucas", cargo: "Deputados Federal", imagem: "./assets/Lucas.png", votos: 0 },
-    { numero: 10831, nome: "Geovana", cargo: "Deputados Estaduais", imagem: "./assets/Geovana.png", votos: 0 },
-    { numero: 20694, nome: "Nicole", cargo: "Deputados Estaduais", imagem: "./assets/Nicole.png", votos: 0 },
-    { numero: 16537, nome: "Maria Júlia", cargo: "Deputados Estaduais", imagem: "./assets/MariaJúlia .png", votos: 0 },
-    { numero: 104, nome: "Katarina", cargo: "Senadores", imagem: "./assets/katarina.png", votos: 0 },
-    { numero: 160, nome: "Laura", cargo: "Senadores", imagem: "./assets/Laura.png", votos: 0 },
-    { numero: 205, nome: "Vander", cargo: "Senadores", imagem: "./assets/Vander.png", votos: 0 },
+    { numero: 11, nome: "Artur/Daniel", cargo: "Presidente","Vice-Presidente", imagem: "./assets/DanielArtur.png", votos: 0 },
+    { numero: 25, nome: "Vitor/Cesar", cargo: "Presidente","Vice-Presidente", imagem: "./assets/CesarVitor.png", votos: 0 },
+    { numero: 15, nome: "Jamily/Lara", cargo: "Presidente","Vice-Presidente", imagem: "./assets/LaraJamily.png", votos: 0 },
+    { numero: 28, nome: "Emily/Laura", cargo: "Presidente","Vice-Presidente", imagem: "./assets/EmilyLaura.png", votos: 0 },
+    { numero: 23, nome: "Eloa/Sofia", cargo: "Presidente","Vice-Presidente", imagem: "./assets/EloaSofia.png", votos: 0 },
+    { numero: 10, nome: "Ester/Sofia", cargo: "Presidente","Vice-Presidente", imagem: "./assets/EsterSofia.png", votos: 0 },
+    { numero: 18, nome: "Sofia/Geovana", cargo: "Presidente","Vice-Presidente", imagem: "./assets/SofiaGeovana.png", votos: 0 },
+    { numero: 20, nome: "Lais/Alice", cargo: "Presidente","Vice-Presidente", imagem: "./assets/LaisAlice.png", votos: 0 },
+    
     // Adicione mais candidatos conforme necessário
 ];
 
